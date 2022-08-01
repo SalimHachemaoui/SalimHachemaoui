@@ -45,7 +45,7 @@ I have a diploma in techniques of information network, administration of systems
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />
+<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/ios-filled/344/linux.png" />
 <img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <br />
@@ -57,8 +57,4 @@ I have a diploma in techniques of information network, administration of systems
 
 <img align="left" alt="SalimHachemaoui Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimHachemaoui&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 
-
-[facebook]: https://www.facebook.com/abdlali.sa
-[linkedin]: https://www.linkedin.com/in/abdlalisalmi/
-[instagram]: https://www.instagram.com/abdlali_salmi/ 
 
