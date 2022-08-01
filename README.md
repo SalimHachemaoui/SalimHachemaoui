@@ -52,14 +52,13 @@ I have a diploma in techniques of information network, administration of systems
 <br />
 
 ### My GitHub Stats:
-<img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
+<img align="left" alt="SalimHachemaoui Github Stats" src="https://github-readme-stats.vercel.app/api?username=SalimHachemaoui&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 
 
-<img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
+<img align="left" alt="SalimHachemaoui Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimHachemaoui&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 
 
 [facebook]: https://www.facebook.com/abdlali.sa
-[twitter]: https://twitter.com/abdlalisalmi
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
 [instagram]: https://www.instagram.com/abdlali_salmi/ 
 
