@@ -1,4 +1,6 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%"> 
+<div align="center">
+ <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+</div>  
 
 ```python
 #!/usr/bin/python
