@@ -2,6 +2,9 @@
  <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 </div>  
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8+%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9E%2C+%3C%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!)](https://git.io/typing-svg) 
+
+<br>
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
